@@ -1,0 +1,4 @@
+@import url("colors.css");
+body{
+    background-color: var(--amber-0);
+}
